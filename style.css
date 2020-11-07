@@ -1,0 +1,35 @@
+img{
+    margin-bottom: 20px;
+    height: 200;
+    width: 300;
+    color: white;
+    background-color: crimson;
+}
+body{
+    text-align: center;
+}
+.pic{
+    height: 300;
+    width: 445;
+}
+.container
+{
+    text-align: center;
+}
+#myCarousel{
+    background-color: aqua;
+}
+#myCarousel img{
+    height: 270px;
+    margin-top: 30px;
+}
+.Carouselinner p{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: aliceblue;
+    font-size: 20;
+}
+#title{
+    height: 400;
+    width: 800;
+}
